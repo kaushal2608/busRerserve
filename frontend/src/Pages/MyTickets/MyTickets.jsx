@@ -46,7 +46,7 @@ const MyTickets = () => {
     return (
         <div >
             <Navbar />
-            {tickets != null? <div className='d-flex justify-content-center '>
+            {tickets.length !== 0? <div className='d-flex justify-content-center '>
                 <div className='mt-5 shadow  mb-5 bg-light rounded justify-content-center px-5 pb-5'>
                     <span className='d-flex justify-content-center' style={{ fontSize: '40px', }}>&#9989;</span>
                     <h3 className=' d-flex justify-content-center' style={{ fontFamily: 'serif' }}>Booking has been confirmed</h3>
