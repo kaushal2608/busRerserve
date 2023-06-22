@@ -1,4 +1,4 @@
-# Almabetter - Capstone project ( 2nd ) - busReserve
+# Bus Reserve
 
 This is a backend capston project given by almabetter in this project we created busReserve website this project have vary simple UI and this website is very easy to use ( userfriendly ) and also a work in any devices ( Responsiveness ) .
 
@@ -6,11 +6,11 @@ This is a backend capston project given by almabetter in this project we created
 
 click on the line to see the project
 
-Frontend on netlify.com
+Frontend host on netlify.com
 
 - busreserve.netlify.app
 
-Backend on cyclic.sh
+Backend host on render.com
 
 - https://busreservation.onrender.com
 
@@ -39,17 +39,6 @@ npm install
 npm start
 
 This will start you frontend part in http://localhost:3000 and backend part running in http://localhost:8080
-
-## How to use
-
-Click on this link for using the website
-
-- busreserve.netlify.app
-
-1.  First select movie you like
-2.  select time schedule
-3.  select seats
-4.  click on Book show button the confirmation pop window will open close this and see right side on the screen the previous movie ticket will show
 
 ## Tech Stack
 
