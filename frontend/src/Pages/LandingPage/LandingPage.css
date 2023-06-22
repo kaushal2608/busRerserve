@@ -1,0 +1,28 @@
+/* Set the text color of labels and inputs */
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+label,
+input[type="text"],
+input[type="date"],
+button[type="submit"] {
+    color: #fff;
+}
+
+.main {
+    padding: 0px;
+    margin: 0px;
+}
+
+/* Set the background color of the submit button */
+button[type="submit"] {
+    background-color: #007bff;
+}
+
+/* Adjust the border color of inputs on focus */
+input:focus {
+    border-color: #fff;
+    box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, .5);
+}

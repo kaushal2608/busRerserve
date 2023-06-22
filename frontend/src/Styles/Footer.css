@@ -1,0 +1,18 @@
+footer a {
+    font-size: 14px;
+}
+
+
+
+footer a:hover {
+    color: #FF5733;
+    transition: color 0.2s;
+}
+
+footer ul li {
+    list-style: none;
+}
+
+footer ul li a i {
+    margin-right: 5px;
+}

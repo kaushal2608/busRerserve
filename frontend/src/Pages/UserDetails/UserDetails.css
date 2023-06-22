@@ -1,0 +1,40 @@
+.form-control:focus {
+    border-color: #80bdff;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+
+.fare-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.fare-details h5 {
+    text-align: left;
+}
+
+.fare-details p {
+    margin-bottom: 0.5rem;
+    text-align: left;
+}
+
+.fare-details p.text-right {
+    margin-bottom: 0.5rem;
+    text-align: right;
+}
+
+.fare-details p:last-child {
+    margin-bottom: 0.5rem;
+    margin-bottom: 0;
+}
+
+.fare-details hr {
+    margin: 1rem 0;
+
+}
+
+.text-right {
+    font-weight: bold;
+    margin-top: -1.2rem;
+}
